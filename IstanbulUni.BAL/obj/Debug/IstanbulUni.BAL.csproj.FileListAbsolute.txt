@@ -1,0 +1,12 @@
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\IstanbulUni.BAL.dll
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\IstanbulUni.BAL.pdb
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\IstanbulUni.DAL.dll
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\IstanbulUni.DAL.pdb
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\IstanbulUni.DAL.dll.config
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\obj\Debug\IstanbulUni.BAL.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\obj\Debug\IstanbulUni.BAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\obj\Debug\IstanbulUni.BAL.csproj.CopyComplete
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\obj\Debug\IstanbulUni.BAL.dll
+C:\Users\pc\Documents\GitHub\IstanbulUniProje\IstanbulUni.BAL\obj\Debug\IstanbulUni.BAL.pdb
